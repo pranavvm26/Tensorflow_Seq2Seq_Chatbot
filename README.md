@@ -40,18 +40,31 @@ After 64000 iterations, a learning rate 0.3928, step-time 0.15 and a perplexity 
 
 Model's converstaion.
 
-> Hi .
-Hi .
-> Can you see me?
-I ' m sorry .
-> I am an owl and you can call me cow .
-I ' m not going to hurt you .
-> why not ?
-Because I ' m not .
-> come on please?
-What ?
-> hit me.
-What ?
-> this is smoking hot .
-Yes .
+``> Hi .``
+
+``Hi .``
+
+``> Can you see me?``
+
+``I ' m sorry .``
+
+``> I am an owl and you can call me cow .``
+
+``I ' m not going to hurt you .``
+
+``> why not ?``
+
+``Because I ' m not .``
+
+``> come on please?``
+
+``What ?``
+
+``> hit me.``
+
+``What ?``
+
+``> this is smoking hot .``
+
+``Yes .``
  
